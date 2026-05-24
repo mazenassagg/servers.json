@@ -2,7 +2,7 @@
   {
     "name": "Mobily 15/60sr All Area 1",
     "description": "440_7100_231 ✅High Speed📡",
-    "country": "saudi", 
+    "country": "franc", 
     "type": "V2ray",
     "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.38.8:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#Alain_France_Config" 
   },
