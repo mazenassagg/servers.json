@@ -19,5 +19,10 @@
     "description": "الخالدي للانترنت المجاني ",
     "country": "فرنسا",
     "type": "V2ray",
-    "config": "vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pools%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt"
-]
+    
+  "config": "vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pools%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt"
+
+  }  
+    
+    ]
+  
