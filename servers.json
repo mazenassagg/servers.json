@@ -11,7 +11,7 @@
     "description": "الخالدي للانترنت المجاني ",
     "country": "امريكا",
     "type": "V2ray",
-    "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.65.90.46:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#Alain_France_Config"
+    "config": "vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pools%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FFrankfurt"
   }
 ]
   {
